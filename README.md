@@ -29,9 +29,9 @@ The implementation successfully demonstrated:
 This project shows the importance of database security in NoSQL systems. By applying standard security mechanisms, such as authentication and access control, the project highlights how to protect data and restrict access. The comparison with relational database security clarifies the similarities and differences in approach between the two database paradigms.
 
 ## Team Members
-- Bouketir Salsabil - Team Leader And Coordinator
+- Bouktir Salsabil - Team Leader And Coordinator
 - Belgueroui Douaa – Database Deployment and Authentication
-- Amari Sana – Secure Query Design
+- Amara Sana – Secure Query Design
 - Bacha Feriel - Deployment of NoSql Database 
 - Bisset Israa – Comparative Analysis and Documentation
 
